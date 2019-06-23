@@ -1,6 +1,6 @@
 {
   "name": "acnonline-aws-utils",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "utils /wrapers to make aws lambda dev easy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,7 @@
     "build": "tsc"
   },
   "author": "Aranga C. Nanayakkara",
-  "homepage":"https://github.com/aranga-nana/acnonline-aws-utils",
+  "homepage": "https://github.com/aranga-nana/acnonline-aws-utils",
   "repository": {
     "type": "git",
     "url": "git://github.com/aranga-nana/acnonline-aws-utils.git"
