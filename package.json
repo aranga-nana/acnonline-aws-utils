@@ -8,6 +8,11 @@
     "build": "tsc"
   },
   "author": "Aranga C. Nanayakkara",
+  "homepage":"https://github.com/aranga-nana/acnonline-aws-utils",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aranga-nana/acnonline-aws-utils.git"
+  },
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.480.0",
