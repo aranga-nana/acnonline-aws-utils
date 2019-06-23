@@ -1,6 +1,6 @@
 {
   "name": "acnonline-aws-utils",
-  "version": "1.0.7",
+  "version": "1.0.12",
   "description": "utils /wrapers to make aws lambda dev easy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +17,7 @@
   "dependencies": {
     "aws-sdk": "^2.480.0",
     "jsonwebtoken": "^8.5.1",
-    "uuid": "^3.3.2"
+    "uuid-random": "^1.0.9"
   },
   "devDependencies": {
     "@types/node": "^12.0.10"

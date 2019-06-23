@@ -1,0 +1,4 @@
+./index.ts
+.gitignore
+package-lock.json
+./tsconfig.json

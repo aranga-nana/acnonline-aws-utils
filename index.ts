@@ -1,6 +1,6 @@
 import { SSM } from 'aws-sdk';
 import * as jsonwebtoken from 'jsonwebtoken';
-import * as uuid from 'uuid/v1'
+import uuid from 'uuid-random';
 
 //SSM region if you want access paramter store in diffrent region
 //Alexa skill may require this to get around with any regional compliance
