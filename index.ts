@@ -77,3 +77,15 @@ export class JwtToken{
     }
 
 };
+/**
+ * Alexa device registration useful infomation 
+ */
+export interface IDeviceRegisterMessage{
+    deviceId:string;
+    tenantId:number;
+    userId?:string;
+    attr?:any;
+}
+export class DeviceRegisterMessage implements IDeviceRegisterMessage{
+    constructor(public deviceId:string,public tenantId:number,public userId:string = '',public attribute:any = {}){}
+}

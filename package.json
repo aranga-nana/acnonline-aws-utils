@@ -1,6 +1,6 @@
 {
   "name": "acnonline-aws-utils",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "utils /wrapers to make aws lambda dev easy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
